@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sp500-performacne/static/css/main.17e8629c.chunk.css",
+    "main.js": "/sp500-performacne/static/js/main.9dc8a64e.chunk.js",
+    "main.js.map": "/sp500-performacne/static/js/main.9dc8a64e.chunk.js.map",
+    "runtime-main.js": "/sp500-performacne/static/js/runtime-main.dfe51a69.js",
+    "runtime-main.js.map": "/sp500-performacne/static/js/runtime-main.dfe51a69.js.map",
+    "static/js/2.aced6d72.chunk.js": "/sp500-performacne/static/js/2.aced6d72.chunk.js",
+    "static/js/2.aced6d72.chunk.js.map": "/sp500-performacne/static/js/2.aced6d72.chunk.js.map",
+    "index.html": "/sp500-performacne/index.html",
+    "precache-manifest.4a356419067f0aa319ebb0bc325a7519.js": "/sp500-performacne/precache-manifest.4a356419067f0aa319ebb0bc325a7519.js",
+    "service-worker.js": "/sp500-performacne/service-worker.js",
+    "static/css/main.17e8629c.chunk.css.map": "/sp500-performacne/static/css/main.17e8629c.chunk.css.map",
+    "static/js/2.aced6d72.chunk.js.LICENSE.txt": "/sp500-performacne/static/js/2.aced6d72.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfe51a69.js",
+    "static/js/2.aced6d72.chunk.js",
+    "static/css/main.17e8629c.chunk.css",
+    "static/js/main.9dc8a64e.chunk.js"
+  ]
+}
