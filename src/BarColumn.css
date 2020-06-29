@@ -1,0 +1,25 @@
+.bar-col {
+  width: 200px;
+  text-align: start;
+  height: 25px;
+}
+.bar-col_neg {
+  text-align: end;
+}
+.bar-col_pos {
+  text-align: start;
+}
+
+.bar {
+  display: inline-block;
+  height: 10px;
+  vertical-align: middle;
+}
+.bar_neg {
+  background-color: red;
+  margin-left: 10px;
+}
+.bar_pos {
+  background-color: green;
+  margin-right: 10px;
+}
